@@ -1,4 +1,4 @@
-// Write a function that accepts an integer N and returns a NxN spiral matrix.
+// Write a function that accepts an integer N and returns a NxN matrix.
 // Examples
 
 // matrix(2)
